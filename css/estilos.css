@@ -1,0 +1,97 @@
+body {
+  background: url("/imagens/forest-gec1faa5a0_1920\ \(1\).jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 90% 1%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  color: rgb(17, 88, 61);
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 1px 1px 5px #97aa9c;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(0, 59, 36);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  color: rgb(0, 59, 36);
+  font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+  text-align: center;
+  color: rgb(0, 59, 36);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h5 {
+  text-align: center;
+  color: rgb(0, 59, 36);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+  width: 50%;
+  height: 15px;
+  background: rgb(100, 126, 58);
+}
+
+.linha {
+  background: rgb(100, 126, 58);
+}
+
+.inicial {
+  background: rgb(100, 126, 58);
+}
+
+p {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  color: rgb(0, 59, 36);
+}
+
+#foto1 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.videozinho {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(212, 212, 212);
+  font-weight: 700;
+}
+
+a:hover {
+  color: rgb(189, 115, 183);
+  text-decoration: underline;
+}
+
+.textorodape {
+  text-align: center;
+}
+
+a:visited {
+  color: rgb(192, 13, 216);
+}
+
+mark {
+  background: rgb(228, 184, 128);
+}
